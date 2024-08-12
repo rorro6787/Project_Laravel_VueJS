@@ -1,6 +1,5 @@
-# Project_Laravel_VueJS
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="800" alt="Laravel Logo"></a></p>
-<p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="200" src="https://vuejs.org/images/logo.png" alt="Vue logo"></a></p><br>
+# FullStack Project with Laravel & VueJS
+<p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="200" src="https://vuejs.org/images/logo.png" alt="Vue logo"></a></p>
 
 This repository contains code and resources for a Full Stack web application built with Laravel on the backend and Vue.js on the frontend. The project includes user authentication, CRUD operations, and a RESTful API for seamless interaction between the frontend and backend.
 
@@ -101,7 +100,10 @@ Contributions are welcome! Please follow these steps:
 5. Create a new Pull Request
 
 ## Acknowledgements
-Inspired by various tutorials and Antonio Sarosi's Mastermind course
+Inspired by various tutorials and Antonio Sarosi's Mastermind course.
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="700" alt="Laravel Logo"></a></p>
+
+
 
 
 
