@@ -11,7 +11,7 @@ This repository contains code and resources for a Full Stack web application bui
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- Acknowledgements(#acknowledgements)
+- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 The goal of this project is to create a Full Stack web application that demonstrates modern web development practices. It is designed to serve as a boilerplate for developers looking to create similar projects with Laravel and Vue.js. The application includes user authentication, API integration, and dynamic frontend rendering using Vue.js
